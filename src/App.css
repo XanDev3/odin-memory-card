@@ -101,6 +101,7 @@ h1 {
   font-family: 'LoLBeaufort','Cinzel';
   background: -webkit-linear-gradient(var(--league-gold), var(--league-light-gold));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .title img{
