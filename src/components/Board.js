@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import Card from './Card.js'
 import GetSrc from './GetSrc.js'
 
-function Board (/* props */) {
+function Board (props) {
   const [cards, setCards] = useState([])
 
   useEffect(() => {
@@ -31,7 +31,7 @@ function Board (/* props */) {
   return (
     <div className='board' id='Board' onClick={shuffleCards}>
       {cards.map(card => {
-        return <Card id={card.id} src={card.src} key={card.id}></Card>
+        return <Card id={card.id} src={card.src} key={card.id} addToScore={props.addToScore}></Card>
       })}
     </div>
   )
