@@ -23,6 +23,6 @@ Memory Card Game Single Page Application. Click on a different card each time to
 #### Attribution:
 - Images are copyright from Riot Games and downloaded from their cdn: [Jayce](https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg)
 - Colors, fonts, and favicon are from the League of Legends brands page: 
-    --[Colors](https://brand.riotgames.com/en-us/league-of-legends/color/) 
-    --[Fonts](https://brand.riotgames.com/en-us/league-of-legends/typography)
-    --[Favicon](https://brand.riotgames.com/en-us/league-of-legends/logos)
+    -[Colors](https://brand.riotgames.com/en-us/league-of-legends/color/) 
+    -[Fonts](https://brand.riotgames.com/en-us/league-of-legends/typography)
+    -[Favicon](https://brand.riotgames.com/en-us/league-of-legends/logos)
