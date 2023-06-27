@@ -5,14 +5,12 @@ Memory Card Game Single Page Application. Click on a different card each time to
 ### Live: [click here](https://xandernesta.github.io/odin-memory-card/)
 
 ## Features
-- Display loading spinner until all images are loaded
 - Render application when all images are loaded
 - Render cards for each character
 - Increment score if clicked card was not clicked yet
 - Shuffle cards randomly after each card click
 - Save best score
 - Reset score when clicked card was already clicked before
-- Parallax hover card effect
 
 ### Dependencies Used:
 - [React](https://github.com/facebook/react)
@@ -20,3 +18,11 @@ Memory Card Game Single Page Application. Click on a different card each time to
 
 #### Dev dependencies:
 - [create-react-app](https://github.com/facebook/create-react-app)
+
+
+#### Attribution:
+- Images are copyright from Riot Games and downloaded from their cdn: [Jayce](https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg)
+- Colors, fonts, and favicon are from the League of Legends brands page: 
+    [Colors](https://brand.riotgames.com/en-us/league-of-legends/color/) 
+    [Fonts] (https://brand.riotgames.com/en-us/league-of-legends/typography)
+    [Favicon] (https://brand.riotgames.com/en-us/league-of-legends/logos)
