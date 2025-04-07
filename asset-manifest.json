@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/odin-memory-card/static/css/main.c4f532a2.css",
-    "main.js": "/odin-memory-card/static/js/main.ac6e8d19.js",
+    "main.css": "/odin-memory-card/static/css/main.73e63fa4.css",
+    "main.js": "/odin-memory-card/static/js/main.4dcd18ef.js",
     "static/media/Spiegel-Regular.otf": "/odin-memory-card/static/media/Spiegel-Regular.250ec15237fc36a15949.otf",
     "static/media/BeaufortforLOL-Bold.otf": "/odin-memory-card/static/media/BeaufortforLOL-Bold.cd9feab2438eb68ecd1d.otf",
     "static/media/Metal_Circle_full_white128.png": "/odin-memory-card/static/media/Metal_Circle_full_white128.f81e9d3c260417413d72.png",
     "index.html": "/odin-memory-card/index.html",
-    "main.c4f532a2.css.map": "/odin-memory-card/static/css/main.c4f532a2.css.map",
-    "main.ac6e8d19.js.map": "/odin-memory-card/static/js/main.ac6e8d19.js.map"
+    "main.73e63fa4.css.map": "/odin-memory-card/static/css/main.73e63fa4.css.map",
+    "main.4dcd18ef.js.map": "/odin-memory-card/static/js/main.4dcd18ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4f532a2.css",
-    "static/js/main.ac6e8d19.js"
+    "static/css/main.73e63fa4.css",
+    "static/js/main.4dcd18ef.js"
   ]
 }
