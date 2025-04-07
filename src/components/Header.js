@@ -1,4 +1,4 @@
-import underline from '/home/alex/odin-repos/odin-memory-card/src/assets/Metal_Under_White.png'
+import underline from '../assets/Metal_Under_White.png'
 import ScoreBoard from './ScoreBoard.js'
 function Header(props){
     return(

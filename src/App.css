@@ -126,10 +126,9 @@ h1 {
   border-image-slice: 61;
   border-image-width: auto;
   background: var(--league-blue);
-  width:24px;
-  height:22px;
+  width: 24px;
+  height: 22px;
 }
-
 .score p:not(.score-num){
   padding: 20px 0;
 }
