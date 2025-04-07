@@ -2,7 +2,7 @@
   "name": "odin-memory-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xandernesta.github.io/odin-memory-card/",
+  "homepage": "https://xandev3.github.io/odin-memory-card/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",

@@ -5,7 +5,7 @@ function Footer(){
     return(
         <footer className="footer">
             <p>Xander© 2022</p>
-            <a href="https://github.com/xandernesta/odin-battleship">
+            <a href="https://github.com/xandev3/odin-battleship">
             <FontAwesomeIcon icon={icon({ name: 'GitHub',style: 'brands'})} />
             </a>
     </footer>
